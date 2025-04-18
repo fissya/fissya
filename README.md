@@ -15,6 +15,29 @@
 💡 I love experimenting, building things that help people, and always asking “why?”  
 🧰 Actively learning about **AI**, **Blockchain**, **Computer Vision**, and **Web Development**.
 
+I'm currently:
+
+- 🧠 Learning **C programming** & diving into **Computer Science Fundamentals**
+- 🧪 Exploring **AI & Blockchain** through self-study and hands-on projects
+- 💡 Participating in the **ElevAIte by Microsoft x Dicoding** program (Beginner to Advanced AI Path)
+- 🔧 Leading my school's programming extracurricular **KARBIT** and mentoring juniors
+- 🧰 Building cool stuff with **Arduino**, **ESP32**, and soon diving into **Computer Vision**
+- 💻 Creating web projects for school events and productivity tools for students
+
+## 🚀 What I'm Working On
+
+- 🎯 Roadmap for AI & Blockchain skills (2025–2026)
+- 📱 "Student Task Manager" web app – a productivity tool for students
+- 🌐 Internal website for KARBIT to streamline activities, projects, and documentation
+- 🎨 Mentoring DKV team in editing, design, and creative projects
+
+## 📚 Currently Learning
+
+- 🔢 Math for AI (Linear Algebra, Probability)
+- 🧠 Machine Learning & Computer Vision fundamentals
+- 🌐 Web Development with a modern, aesthetic twist (using Tailwind, React, etc.)
+- 🧾 Economics & Informatics for school olympiads
+
 ---
 
 ## ⚒️ Tech Stack & Tools
@@ -25,13 +48,14 @@
 
 ---
 
-## 🚀 Current Focus
+> Always experimenting. Always building. Always learning.
 
-- ✨ Leading **KARBIT** programming division (school tech org)
-- 📱 Building: **Student Task Manager** + Internal Web for KARBIT
-- 🧪 Deepening knowledge in **Machine Learning** & **Blockchain**
-- 🎯 Target: Finish **ElevAIte Program** by June 2025
-- 🎓 Preparing for olympiads in **Informatics & Economics**
+## 🎯 Goals (2025 & Beyond)
+
+- 🌟 Master core AI & blockchain principles by end of high school
+- 💼 Build a strong portfolio with real-world student-focused apps
+- 🧠 Sharpen 21st century skills: critical thinking, collaboration, creativity, communication
+- 🎓 Prep for university with a focus on tech & finance innovation
 
 ---
 
