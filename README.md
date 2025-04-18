@@ -43,7 +43,7 @@ I'm currently:
 ## ⚒️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,arduino,react,tailwind,figma,vscode,github,git,azure" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,arduino,tailwind,figma,vscode,github,git,azure" />
 </p>
 
 ---
