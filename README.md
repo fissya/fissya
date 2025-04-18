@@ -29,7 +29,6 @@ I'm currently:
 - 🎯 Roadmap for AI & Blockchain skills (2025–2026)
 - 📱 "Student Task Manager" web app – a productivity tool for students
 - 🌐 Internal website for KARBIT to streamline activities, projects, and documentation
-- 🎨 Mentoring DKV team in editing, design, and creative projects
 
 ## 📚 Currently Learning
 
